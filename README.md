@@ -45,8 +45,6 @@ It demonstrates skills in **data cleaning, exploratory data analysis, and visual
 ## 🚀 How to Run
 1. Clone the repo
 2. Install the requried libraries
-   ```bash
-pip install -r requirements.txt
-
-```3. Run the .ipynb file
+```pip install -r requirements.txt```
+3. Run the .ipynb file
    
