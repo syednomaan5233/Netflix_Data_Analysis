@@ -1,4 +1,4 @@
-Netflix_Data_Analysis
+# Project Title
 
 ## 📖 Overview
 This project demonstrates data science workflow including data cleaning, EDA, modeling, and visualization.
@@ -24,3 +24,4 @@ pip install -r requirements.txt
 
 ```
 Run the python file
+
